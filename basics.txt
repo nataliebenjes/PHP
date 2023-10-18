@@ -1,0 +1,18 @@
+What does PHP do?
+  -send email
+  -nav to specific page
+  -create user account
+  -find out what operating system user is using
+  -create website templates
+  -do math
+
+Tools to get started
+  -requires server to run!
+    -mamp
+  -hosting
+    -Justhost @ $3.95
+      -one free domain name for life
+      -easy blog setup
+  -domain name
+    -godaddy
+  
