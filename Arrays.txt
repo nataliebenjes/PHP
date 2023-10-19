@@ -1,0 +1,28 @@
+To define:
+
+$moustaches = array("Handlebar", "Salvador Dali", "Fu Manchu");
+
+
+to read:
+<?php
+echo $moustaches[0]; // this will display "Handlebar"
+ 
+echo $moustaches[1]; // this will display "Salvador Dali"
+ 
+echo $moustaches[2]; // this will display "Fu Manchu"
+?>
+
+Associative Arrays:
+
+
+name the keys! key value pairs
+
+$handlebar = array(
+                 
+                "name" => "Handlebar",
+                 
+                "creep_factor" => "High",
+                 
+                "avg_growth_days" => 14
+                 
+            );

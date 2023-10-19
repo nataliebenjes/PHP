@@ -6,3 +6,6 @@ define("TITLE", "Defining Constants");
 
 CASE sensitive
 -write in all caps by convention
+
+to display constant that is already defined:
+<?php echo TITLE; ?>
