@@ -1,0 +1,8 @@
+similar to variable (store info in keyword)
+-values cannot be changed
+ex:
+define("TITLE", "Defining Constants");
+
+
+CASE sensitive
+-write in all caps by convention

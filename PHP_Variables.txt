@@ -1,0 +1,17 @@
+1. Boolean
+<?php
+    $logged_in = true;
+?>
+2. Integer
+<?php
+    $fav_num = 2940;
+?>
+3. Floating Point
+<?php
+    $top_speed = 104.87;
+?>
+4. String
+<?php
+    $vehicle = "Subaru";
+?>
+

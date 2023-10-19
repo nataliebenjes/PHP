@@ -1,0 +1,13 @@
+syntax:
+  PHP scripts always start <php?
+  html format with php scripts
+  // comment
+
+  # comment
+
+  /* multi line
+  comment
+  */
+
+  -user defined functions aren't case sensitive
+  -variables are case sensisitve
